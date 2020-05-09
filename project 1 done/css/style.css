@@ -1,0 +1,114 @@
+.navbar{
+    background: #000324 0% 0% no-repeat padding-box;
+    top: 0px;
+    left: 0px;
+    height: 110px;
+}
+.navbar2{
+    background: #000324 0% 0% no-repeat padding-box;
+
+}
+.a{
+    color: white;
+    font-family: 'Dosis', sans-serif;
+}
+.b{
+    height: 10px;
+    padding-top: 11%;
+    border: thin;
+}
+#img-header{
+    background-image: url(/images/header.jpg);
+    background-position: center;
+    height: 400px;
+    background-size: cover;
+}
+.shaded-box{
+    left: 488px;
+    right: 488px;
+    bottom: 134px;
+    width: 945px;
+    height: 232px;
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 0.8;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.c{
+    font-family: 'Dosis', sans-serif;
+}
+.h{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.e{
+    padding-top: 11%;
+}
+.f{
+border: solid;
+    
+}
+.g{
+    top: 109px;
+    left: 393px;
+    opacity: 1;
+}
+.text{
+    top: 109px;
+  
+}
+.i{
+    bottom: 109px;
+    opacity: 1px;
+}
+.img-a{
+    background-image: url(/images/bg2.jpg);
+    background-position: center;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.j{
+    color: white;
+}
+.z{
+    font: bolder;
+}
+.package{
+    display: flex;
+    justify-content: center;
+}
+
+.roomCards{
+    border: none;
+}
+.con{
+    padding: 0px;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .roomCards {
+      max-width: 100%;
+    }
+  }
+
+.price{
+    color: blue;
+}
+#img-b{
+    background-image: url(/images/bg.jpg);
+    background-size: cover;
+    height: 548px;
+}.Amenties{
+    color: white;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.color{
+    background-color: #000324;
+    color: white;
+}
